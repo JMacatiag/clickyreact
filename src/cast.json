@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Tyrion Lannister",
+    "image": "https://media.giphy.com/media/iwVHUKnyvZKEg/giphy.gif",
+    "occupation": "Hand of the Queen"
+  },
+  {
+    "id": 2,
+    "name": "Walter White",
+    "image": "https://media.giphy.com/media/13zVDUTRtfib1m/giphy.gif",
+    "occupation": "Chemist"
+  },
+  {
+    "id": 3,
+    "name": "Adamska",
+    "image": "https://media.giphy.com/media/iLU9MJzYDhNHG/giphy.gif",
+    "occupation": "Revolver Ocelot"
+  },
+  {
+    "id": 4,
+    "name": "Barney Stinson",
+    "image": "https://media.giphy.com/media/oaWZcKvDo8JBS/giphy.gif",
+    "occupation": "PLEASE"
+  },
+  {
+    "id": 5,
+    "name": "Albus Dumbledore",
+    "image": "https://media.giphy.com/media/XaL3E2UI6N8PK/giphy.gif",
+    "occupation": "Headmaster"
+  },
+  {
+    "id": 6,
+    "name": "Aaron Burr",
+    "image": "https://media.giphy.com/media/NTRux9Y9pKUaQ/giphy.gif",
+    "occupation": "Vice President"
+  },
+  {
+    "id": 7,
+    "name": "Steve Rogers",
+    "image": "https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif",
+    "occupation": "First Avenger"
+  },
+  {
+    "id": 8,
+    "name": "Arya Stark",
+    "image": "https://media.giphy.com/media/vDbEiWzCLCRuE/giphy.gif",
+    "occupation": "No One"
+  },
+  {
+    "id": 9,
+    "name": "MaacGruber",
+    "image": "https://media.giphy.com/media/gNmEvVZI3OKic/giphy.gif",
+    "occupation": "Special Operative"
+  },
+  {
+    "id": 10,
+    "name": "John 117",
+    "image": "https://media.giphy.com/media/N0N8dHvcGH5kc/giphy.gif",
+    "occupation": "Master Chief"
+  },
+  {
+    "id": 11,
+    "name": "Jack AKA Naked Snake",
+    "image": "https://media.giphy.com/media/xzBIGHmFcQ1kA/giphy.gif",
+    "occupation": "Big Boss"
+  },
+  {
+    "id": 12,
+    "name": "Daenerys Targaryen",
+    "image": "https://media.giphy.com/media/LrN9NbJNp9SWQ/giphy.gif",
+    "occupation": "Breaker of Chains"
+  }
+]
