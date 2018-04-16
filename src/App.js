@@ -71,8 +71,8 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav>
-          score={scoreCounter} | 
-          topScore={topScore}
+          Score={scoreCounter} | 
+          Top Score={topScore}
         </Nav>
         <Title>{this.state.announce}</Title>
         {this.state.friends.map(friend => (
